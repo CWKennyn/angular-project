@@ -11,7 +11,6 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   declarations: [
-    AppComponent
   ]
 })
 export class AppModule {}
